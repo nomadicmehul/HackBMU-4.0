@@ -16,7 +16,7 @@
 * **Time**: 06.00 PM
 * **Online**: Google Meet 
 
-![](images/Mehul_Patel.png)
+![](images/Mehul_Patel.jpeg)
 
 Special thanks to [Open Source Community: VIT-AP](https://www.linkedin.com/company/oscvitap/) for hosting me.
 
