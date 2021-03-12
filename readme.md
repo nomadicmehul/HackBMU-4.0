@@ -16,9 +16,9 @@
 * **Time**: 06.00 PM
 * **Online**: Google Meet 
 
-![](images/Mehul_Patel.jpeg)
+![](images/Mehul_Patel.jpg)
 
-Special thanks to [Open Source Community: VIT-AP](https://www.linkedin.com/company/oscvitap/) for hosting me.
+Special thanks to [HackBMU 4.0](https://www.linkedin.com/company/bmuhack/) for hosting me.
 
 #### Event type: Public
 
